@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidTest1</string>
+    <string name="item_name_label">Item Name</string>
+    <string name="item_name_hint">Enter item name.</string>
+    <string name="done">Done</string>
+    <string name="revert">Revert</string>
+    <string name="add">Add</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_english">English</string>
+</resources>
